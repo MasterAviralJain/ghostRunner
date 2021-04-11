@@ -1,0 +1,2 @@
+# ghostRunner
+vsc,js
